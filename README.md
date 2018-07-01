@@ -1,4 +1,4 @@
-#Robo Friends
+## Robo Friends
 
 Robo Friends is a small React.js app demonstrating front-end skills. It was built as part of a 
 Udemy course on modern web development.
